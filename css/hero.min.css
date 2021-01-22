@@ -1,0 +1,51 @@
+.container-one {
+  display: flex;
+  width: 100%;
+  background-image: url("/assets/fotonico.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container-name {
+  text-align: center;
+  width: 100%;
+  margin: 10px;
+}
+
+.des {
+  font-size: 25px;
+  top: 60px;
+}
+
+h1 {
+  color: white;
+  font-family: 'Fjalla One', sans-serif;
+  text-align: right;
+  margin-top: 230px;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+h4 {
+  color: white;
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
+
+.texto {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*# sourceMappingURL=hero.min.css.map */
