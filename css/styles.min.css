@@ -16,6 +16,17 @@ p {
   font-size: 15px;
 }
 
+.titulo-ingles {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+
+.training {
+  width: 100%;
+  margin-bottom: 40px;
+}
+
 nav {
   background-color: black;
   height: 80px;
