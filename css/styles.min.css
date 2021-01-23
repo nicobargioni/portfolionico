@@ -35,7 +35,7 @@ i {
   justify-content: center;
   align-items: center;
   margin-top: -10px;
-  background-image: url("/assets/nico.png");
+  background-image: url("./assets/nico.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
