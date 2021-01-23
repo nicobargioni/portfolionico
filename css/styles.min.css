@@ -175,6 +175,16 @@ p {
   text-decoration: underline;
 }
 
+.btn-primary:hover {
+  background-color: #ff9e5e;
+  border-color: #bd6b34;
+}
+
+.btn-primary:focus {
+  background-color: #ff9e5e;
+  border-color: #bd6b34;
+}
+
 .btn-primary:focus {
   background-color: black;
   border-color: black;
