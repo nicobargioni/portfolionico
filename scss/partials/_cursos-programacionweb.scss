@@ -1,0 +1,39 @@
+.titulo-cursos{
+    margin-top: 30px;
+    animation: aparecer 6s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 2s;
+    margin-bottom: 20px;
+}
+
+.card-programacion h5{
+    text-align: center;
+}
+
+.card-programacion{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.card-programacion .card{
+    margin: 0 auto;
+}
+
+.card-programacion .card .card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes aparecer{
+
+    0%{
+        opacity: 0;
+    }
+
+    100%{
+        opacity: 1;
+    }
+
+}

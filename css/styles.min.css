@@ -198,7 +198,7 @@ p {
   color: #ff9e5e;
 }
 
-h2 {
+.estudios-h2 {
   color: white;
   font-family: 'Fjalla One', sans-serif;
   text-align: center;
@@ -207,6 +207,13 @@ h2 {
   margin-top: 20px;
   animation: bajatexto 10s infinite;
   animation-timing-function: ease-in-out;
+}
+
+h2 {
+  color: white;
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+  font-size: 25px;
 }
 
 #hr-estiralinea1 {
@@ -281,5 +288,42 @@ h2 {
 
 .cursos a {
   text-decoration: none;
+}
+
+.titulo-cursos {
+  margin-top: 30px;
+  animation: aparecer 6s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 2s;
+  margin-bottom: 20px;
+}
+
+.card-programacion h5 {
+  text-align: center;
+}
+
+.card-programacion {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.card-programacion .card {
+  margin: 0 auto;
+}
+
+.card-programacion .card .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@keyframes aparecer {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 /*# sourceMappingURL=styles.min.css.map */

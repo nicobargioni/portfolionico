@@ -45,7 +45,7 @@
 
 
 
-h2{
+.estudios-h2{
     color: white;
     font-family: 'Fjalla One', sans-serif;
     text-align: center;
@@ -55,6 +55,13 @@ h2{
     animation: bajatexto 10s infinite;
     animation-timing-function: ease-in-out;
     
+}
+
+h2{
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    font-size: 25px;
 }
 
 #hr-estiralinea1{
