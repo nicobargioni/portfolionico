@@ -43,12 +43,12 @@ nav .logonavbar {
   margin-left: 30px;
 }
 
-.fa-twitter {
+#tw2 {
   color: #ff9e5e;
   margin-right: 30px;
 }
 
-.fa-instagram {
+#ig2 {
   color: #ff9e5e;
   margin-right: 30px;
 }
@@ -149,6 +149,7 @@ p {
 #tw1 {
   margin-left: 30px;
   margin-right: 30px;
+  color: #ff9e5e;
 }
 
 #tw2 {
@@ -159,6 +160,7 @@ p {
 #ig1 {
   margin-left: 30px;
   margin-right: 30px;
+  color: #ff9e5e;
 }
 
 #ig2 {
@@ -390,5 +392,17 @@ footer .redes {
 
 #boton-block-a {
   text-decoration: none !important;
+}
+
+.iconos-bar {
+  margin-right: 30px;
+}
+
+#bar-twitter {
+  margin: 0 10px;
+}
+
+#bar-github {
+  margin: 0 10px;
 }
 /*# sourceMappingURL=styles.min.css.map */
