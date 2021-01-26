@@ -396,6 +396,9 @@ footer .redes {
 
 .iconos-bar {
   margin-right: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #bar-twitter {
@@ -403,6 +406,10 @@ footer .redes {
 }
 
 #bar-github {
+  margin: 0 10px;
+}
+
+#bar-instagram {
   margin: 0 10px;
 }
 /*# sourceMappingURL=styles.min.css.map */

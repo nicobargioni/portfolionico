@@ -1,5 +1,8 @@
 .iconos-bar{
     margin-right: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #bar-twitter{
@@ -10,3 +13,6 @@
     margin: 0 10px;
 }
 
+#bar-instagram{
+    margin: 0 10px;
+}
